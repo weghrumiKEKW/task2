@@ -1,0 +1,17 @@
+C:\Users\VivoBook\source\repos\task2\task2\bin\Debug\net10.0-windows\task2.exe
+C:\Users\VivoBook\source\repos\task2\task2\bin\Debug\net10.0-windows\task2.deps.json
+C:\Users\VivoBook\source\repos\task2\task2\bin\Debug\net10.0-windows\task2.runtimeconfig.json
+C:\Users\VivoBook\source\repos\task2\task2\bin\Debug\net10.0-windows\task2.dll
+C:\Users\VivoBook\source\repos\task2\task2\bin\Debug\net10.0-windows\task2.pdb
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\task2.Form1.resources
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\task2.csproj.GenerateResource.cache
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\task2.AssemblyInfoInputs.cache
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\task2.AssemblyInfo.cs
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\task2.csproj.CoreCompileInputs.cache
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\task2.dll
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\refint\task2.dll
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\task2.pdb
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\task2.genruntimeconfig.cache
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\ref\task2.dll
+C:\Users\VivoBook\source\repos\task2\task2\obj\Debug\net10.0-windows\task2.csproj.Up2Date
